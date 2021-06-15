@@ -1,3 +1,9 @@
+# Exploratory charters for Monefy application
+
+https://github.com/gayatrithakare/pet-store/blob/main/exploratoryTests.md
+
+
+
 # Pet store API verification application
 
 It's a simple maven based java application. It contains automated test cases for testing pet related API's. Test are
